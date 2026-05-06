@@ -109,7 +109,7 @@ get_disk_usage(){
 }
 
 get_top_process_cpu(){
-    print_header "TOP 5 PROCESSES - CPU"
+    print_header "TOP 5 PROCESS - CPU"
     
     # Cabeçalho da tabela
     printf "  ${PURPLE}%-8s %-6s %-6s %-30s${NC}\n" "PID" "%CPU" "%MEM" "COMMAND"
@@ -127,7 +127,7 @@ get_top_process_cpu(){
 }
 
 get_top_process_memory(){
-    print_header "TOP 5 PROCESSES - MEMORY"
+    print_header "TOP 5 PROCESS - MEMORY"
     
     # Cabeçalho da tabela
     printf "  ${PURPLE}%-8s %-8s %-6s %-6s %-25s${NC}\n" "PID" "PPID" "%MEM" "%CPU" "COMMAND"
