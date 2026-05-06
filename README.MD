@@ -11,19 +11,7 @@ Um script Bash elegante e interativo para monitorar a saúde do seu servidor Lin
 ## 📋 Índice
 
 - [Features](#-features)
-- [Screenshot](#-screenshot)
 - [Instalação](#-instalação)
-- [Uso](#-uso)
-- [Configuração](#-configuração)
-- [Métricas Monitoradas](#-métricas-monitoradas)
-- [Esquema de Cores](#-esquema-de-cores)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Personalização](#-personalização)
-- [Troubleshooting](#-troubleshooting)
-- [Exemplo de Saída](#-exemplo-de-saída-completa)
-- [Contribuindo](#-contribuindo)
-- [Licença](#-licença)
-- [Autor](#-autor)
 
 ---
 
