@@ -26,7 +26,6 @@ Um script Bash elegante e interativo para monitorar a saúde do seu servidor Lin
 - 🔥 **Top 5 Processos** - Por uso de CPU e Memória
 - 🎨 **Interface Colorida** - Verde (OK), Amarelo (Atenção), Vermelho (Crítico)
 - ⏳ **Animações de Loading** - Feedback visual durante a coleta de dados
-- 🔒 **Segurança** - Suporte a arquivo `.env` para tokens sensíveis
 
 ---
 ## 🎬 Demonstração
