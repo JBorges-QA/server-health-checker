@@ -11,6 +11,7 @@ Um script Bash elegante e interativo para monitorar a saúde do seu servidor Lin
 ## 📋 Índice
 
 - [Features](#-features)
+- [Demo](#-Demo)
 - [Instalação](#-instalação)
 
 ---
@@ -26,6 +27,16 @@ Um script Bash elegante e interativo para monitorar a saúde do seu servidor Lin
 - 🔒 **Segurança** - Suporte a arquivo `.env` para tokens sensíveis
 
 ---
+## 🎬 Demonstração
+
+![Server Health Checker Demo](./docs/demo.gif)
+
+*Clique na imagem para ver a demonstração completa*
+
+### Screenshot Estático
+
+![Server Stats](./docs/Screenshot.png)
+
 
 ## 🚀 Instalação
 
