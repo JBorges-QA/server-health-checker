@@ -13,7 +13,7 @@ Um script Bash elegante e interativo para monitorar a saúde do seu servidor Lin
 ## 📋 Índice
 
 - [Features](#-features)
-- [Demo](#-Demo)
+- [Demonstração](#-Demonstração)
 - [Instalação](#-instalação)
 
 ---
